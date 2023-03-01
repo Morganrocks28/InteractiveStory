@@ -46,6 +46,7 @@ int main() {
 
 		cout << "\n Do you want to play again y/n: ";
 		cin >> again;
+		cout << "hello";
 
 	}
 	cout << "\nSee you next time";
